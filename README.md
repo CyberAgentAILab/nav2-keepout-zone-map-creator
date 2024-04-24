@@ -110,8 +110,8 @@ You can specify keepout zone as polygon.
 
 |Operation|Description|
 |:---|:---|
-|Right Click|add vertices|
-|`f` key|finish to add vertices|
+|Light Mouse Click|add vertices|
+|Push `f` key|finish to add vertices|
 
 ### Save keepout zone map
 
